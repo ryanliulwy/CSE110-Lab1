@@ -8,13 +8,15 @@
 
 
 ## About Me
+![ryan-l](https://raw.githubusercontent.com/ryanliulwy/CSE110-Lab1/main/images/ryan_liu.png)
+
 Hello! I'm Ryan, a second year Computer Science major here at UC San Diego in Revelle College. A few things I enjoy spending my free time doing:
 1. **Hanging out with friends**
-   - Here's a goofy picture of [me and a mighty stack of hats](images/image.png) they took of me a while back
+   - Here's a [goofy picture](images/hatstack.png) they took of me and a mighty stack of hats a while back
 2. **Playing video games**
    - Recently I've been getting into a game called _The Finals_
    - I've also been playing a lot of modded _Terraria_ these days
-   - Unfortunately, my friends also drag me into their games of _League of Legends_
+   - Unfortunately, my friends also drag me into their _League of Legends_ matches
 3. **Practicing the piano**
    - I used to take part in piano competitions before ([here's a recording](https://www.youtube.com/watch?v=ncm4KW2-Qyw) of one of the hardest pieces I learned!)
    - Now I mostly do it for fun and play music from shows and games I like :)
@@ -48,4 +50,7 @@ Here's a funny code block I picked up off the floor. I wonder what it does...?
 :(){ :|:& };:
 ```
 
-Link to the screenshots folder of my git work for this assignment [here](screenshots/).
+Link to the screenshots of my git work for this assignment:
+- [Command Line part 1](screenshots/Lab1_CommandLine_1.png)
+- [Command Line part 2](screenshots/Lab1_CommandLine_2.png)
+- [VS Code Staged Commit](Lab1_StagedChanges.png)
