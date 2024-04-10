@@ -2,9 +2,9 @@
 ![toothless dance](https://media.tenor.com/RcX3hUY425kAAAAi/toothless-dragon-toothless.gif)
 
 ### A (small) Table of Contents:
-* [About Me](https://github.com/ryanliulwy/CSE110-Lab1/new/main#about-me)
-* [Classes I've Taken](https://github.com/ryanliulwy/CSE110-Lab1/new/main#classes-ive-taken)
-* [Other Stuff](https://github.com/ryanliulwy/CSE110-Lab1/new/main#other-stuff)
+* [About Me](https://ryanliulwy.github.io/CSE110-Lab1/#about-me)
+* [Classes I've Taken](https://ryanliulwy.github.io/CSE110-Lab1/#classes-ive-taken)
+* [Other Stuff](https://ryanliulwy.github.io/CSE110-Lab1/#other-stuff)
 
 
 ## About Me
@@ -21,6 +21,7 @@ Hello! I'm Ryan, a second year Computer Science major here at UC San Diego in Re
 
 ## Classes I've Taken
 ![wow such study](https://media.tenor.com/z1YT2LePMWkAAAAi/tkthao219-peach.gif)
+
 Relevant coursework **completed prior** to this class:
 - [x] Data Structures and Object-Oriented Design
 - [x] Software Tools and Techniques
