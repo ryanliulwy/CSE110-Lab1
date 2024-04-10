@@ -53,4 +53,4 @@ Here's a funny code block I picked up off the floor. I wonder what it does...?
 Link to the screenshots of my git work for this assignment:
 - [Command Line part 1](screenshots/Lab1_CommandLine_1.png)
 - [Command Line part 2](screenshots/Lab1_CommandLine_2.png)
-- [VS Code Staged Commit](Lab1_StagedChanges.png)
+- [VS Code Staged Commit](screenshots/Lab1_StagedChanges.png)
